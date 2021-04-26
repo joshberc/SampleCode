@@ -1,0 +1,1 @@
+The simple program will parse C# files to only search for the given word within comment blocks. Anything that isn't a comment will be ignored. It returns the total number of time the user submitted word is found in the given file.

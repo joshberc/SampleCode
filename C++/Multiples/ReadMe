@@ -1,0 +1,4 @@
+Multiples of 2, 3, 5
+Consider a series in ascending order that only consists of numbers that can be factored by any combination of 2, 3 and 5. e.g. 1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 15....
+For example the numbers 7 (prime), 13 (prime) or 14 (2*7, 7 is not a valid factor), are not in the above series. They are not factorable by 2, 3, 5. The number 1 is included by definition.
+For example, the number in position 18 would be 30:
